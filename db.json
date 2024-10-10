@@ -1,0 +1,7 @@
+{ "buecher" : [ 
+{"id": "1", "author": "Uwe Hoffmann", "title":"Elektronische Datenverarbeitung - Medizinische Fachangestellte"},
+{"id": "2", "author": "Michael Sieber", "title":"Büro 2.1 Informationsverarbeitung Excel 2016, m. CD-ROM / Büro 2.1 - Kaufmann/Kauffrau für Büromanagement"},
+{"id": "3", "author": "Ralf Salih", "title":"Datenbanken - Lernsituationen"},
+{"id": "4", "author": "Werner Geers", "title":"Berufliche Informatik Office 2016. Schülerband"},
+{"id": "5", "author": "Dirk Hardy", "title":"C++ für IT-Berufe"} ]
+}
