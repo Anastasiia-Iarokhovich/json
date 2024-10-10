@@ -1,43 +1,23 @@
 { "addresses" : [
-  {
-    "street": "Улица Добра",
-    "house_number": 40
-  },
-  {
-    "street": "Проспект Мира",
-    "house_number": 897
-  },
-  {
-    "street": "Аллея Дружбы",
-    "house_number": 67
-  },
-  {
-    "street": "Бульвар Здоровья",
-    "house_number": 13
-  },
-  {
-    "street": "Площадь Свободы",
-    "house_number": 989
-  },
-  {
-    "street": "Шоссе Ветеранов",
-    "house_number": 200
-  },
-  {
-    "street": "Переулок Молодежный",
-    "house_number": 15
-  },
-  {
-    "street": "Территория Спорта",
-    "house_number": 101
-  },
-  {
-    "street": "Проезд Истории",
-    "house_number": 77
-  },
-  {
-    "street": "Путь Единства",
-    "house_number": 34
-  }
-] 
+    {
+      "street": "Улица Добра",
+      "house_number": 40
+    },
+    {
+      "street": "Проспект Мира",
+      "house_number": 897
+    },
+    {
+      "street": "Аллея Дружбы",
+      "house_number": 67
+    },
+    {
+      "street": "Бульвар Здоровья",
+      "house_number": 13
+    },
+    {
+      "street": "Площадь Свободы",
+      "house_number": 989
+    }
+  ] 
 }
