@@ -1,23 +1,43 @@
 { "addresses" : [
-    {
-      "street": "Улица Добра",
-      "house_number": 40
+    {          
+        "street": "Освобождение труда",        
+        "house": "1",
+        "flat" : "",
+        "city" : "Воронеж",
+        "country" : "Россия",
+        "postal_code" : ""
     },
     {
-      "street": "Проспект Мира",
-      "house_number": 897
+        "street": "пр. Революции",        
+        "house": "14в",
+        "flat" : "",
+        "city" : "Врн",
+        "country" : "Россия",
+        "postal_code" : ""
     },
     {
-      "street": "Аллея Дружбы",
-      "house_number": 67
+        "street": "пл. Ленина",        
+        "house": "7",
+        "flat" : "",
+        "city" : "Воронеж",
+        "country" : "Рос",
+        "postal_code" : ""
     },
     {
-      "street": "Бульвар Здоровья",
-      "house_number": 13
+        "street": "ул. С. Перовской",        
+        "house": "9",
+        "flat" : "",
+        "city" : "Воронеж",
+        "country" : "Россия",
+        "postal_code" : "39493"
     },
     {
-      "street": "Площадь Свободы",
-      "house_number": 989
+         "street": "Плехановская",        
+        "house": "29",
+        "flat" : "",
+        "city" : "Воронеж",
+        "country" : "Россия",
+        "postal_code" : "394918"
     }
   ] 
 }
